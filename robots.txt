@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# l'URL absolue de l'index de sitemaps 
+Sitemap: https://vlecocq-psy.fr
